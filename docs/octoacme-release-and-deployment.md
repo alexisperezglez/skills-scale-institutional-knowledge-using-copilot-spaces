@@ -22,6 +22,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] CI/CD pipeline validated and rollback procedure tested (Owner: DevOps Engineer)
+- [ ] Data instrumentation verified and dashboards updated to reflect new release metrics (Owner: Data Analyst)
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

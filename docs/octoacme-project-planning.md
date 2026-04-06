@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/UI discovery complete and wireframes/prototypes reviewed with Product Manager (Owner: UX/UI Designer)
+- [ ] Infrastructure and environment readiness confirmed for target release (Owner: DevOps Engineer)
+- [ ] Data instrumentation and success metrics defined and added to relevant backlog items (Owner: Data Analyst)
+- [ ] Business requirements and acceptance criteria validated with stakeholders (Owner: Business Analyst)
