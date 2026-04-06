@@ -9,7 +9,7 @@ Maintain a simple table with:
 - Description
 - Impact (High/Med/Low)
 - Likelihood (High/Med/Low)
-- Owner
+- Owner (the role responsible for tracking and driving mitigation — typically the Project Manager for delivery risks, Product Manager for scope/value risks, DevOps Engineer for infrastructure risks, or Business Analyst for requirements risks)
 - Mitigation plan
 - Status
 
